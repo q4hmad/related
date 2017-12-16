@@ -28,7 +28,7 @@ _none_
 
 ## Support and contact details
 
-_Questions? Concerns? q4hmad@gmail.com, biffbangpow767@yahoo.com_
+_Questions? Concerns? [q4hmad](https://q4hmad@gmail.com), biffbangpow767@yahoo.com_
 
 ## Technologies Used
 
@@ -38,4 +38,4 @@ _Ruby, Sinatra, ActiveRecord, psql, HTML, CSS_
 
 *This is licensed under the MIT license*
 
-Copyright (c) 2016 **_Qudsia Ahmad, Rebecca McIntosh, and Lainey _**
+Copyright (c) 2017 **_Qudsia Ahmad, Rebecca McIntosh_**
