@@ -28,7 +28,7 @@ _none_
 
 ## Support and contact details
 
-_Questions? Concerns? [q4hmad](https://q4hmad@gmail.com), biffbangpow767@yahoo.com_
+_Questions? Concerns? [q4hmad](https://q4hmad@gmail.com),[Rebecca](https://biffbangpow767@yahoo.com)_
 
 ## Technologies Used
 
