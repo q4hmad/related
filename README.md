@@ -1,8 +1,8 @@
 # _Related_
 
-#### _Allows residents in a building connect with one another, 10/02/2017_
+#### _Allows residents in a building connect with one another by posting services they can offer, and allowing residents to build communities around common interests. 10/02/2017_
 
-#### By _**Qudsia Ahmad, Rebecca McIntosh, Lainey**_
+#### By _**Qudsia Ahmad and Rebecca McIntosh_**_
 
 ## Description
 
